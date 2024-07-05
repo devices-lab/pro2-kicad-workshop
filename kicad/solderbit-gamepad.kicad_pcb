@@ -11611,19 +11611,11 @@
 			(uuid "b68c6591-9c31-4c66-8ea0-05224f069c43")
 			(effects
 				(font
-					(face "Segoe UI This")
 					(size 3 3)
 					(thickness 0.6)
 					(bold yes)
 				)
 				(justify left bottom mirror)
-			)
-			(render_cache "-" 0
-				(polygon
-					(pts
-						(xy 81.451151 74.111423) (xy 83.023586 74.111423) (xy 83.023586 73.548688) (xy 81.451151 73.548688)
-					)
-				)
 			)
 		)
 		(fp_text user "+"
@@ -11633,21 +11625,11 @@
 			(uuid "c60a57e1-8a96-49c3-b211-918b4be15b11")
 			(effects
 				(font
-					(face "Segoe UI This")
 					(size 3 3)
 					(thickness 0.6)
 					(bold yes)
 				)
 				(justify left bottom mirror)
-			)
-			(render_cache "+" 0
-				(polygon
-					(pts
-						(xy 80.664183 62.911423) (xy 81.762543 62.911423) (xy 81.762543 63.99) (xy 82.327477 63.99) (xy 82.327477 62.911423)
-						(xy 83.425837 62.911423) (xy 83.425837 62.348688) (xy 82.327477 62.348688) (xy 82.327477 61.270111)
-						(xy 81.762543 61.270111) (xy 81.762543 62.348688) (xy 80.664183 62.348688)
-					)
-				)
 			)
 		)
 		(pad "" np_thru_hole circle
