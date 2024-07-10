@@ -28,4 +28,4 @@ Don’t worry if you don’t manage to get all the steps here completed, as we a
 
 Thanks to [Dr John Vidler](https://github.com/JohnVidler) and [Aron Eggens](https://github.com/mac-aron), the Computing and Communications departement at Lancaster University, and everyone at the [Devices Lab](https://github.com/devices-lab).
 
-![Rear render of the solder:bit Gamepad](/renders/front.png "A render of the solder:bit Gamepad version of the board")
+![Rear render of the solder:bit Gamepad](/renders/back.png "A render of the solder:bit Gamepad version of the board")
